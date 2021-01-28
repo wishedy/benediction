@@ -1,0 +1,9 @@
+/src/config/*
+/src/plugin/*
+/src/libs/vconsole.min.js
+/src/libs/cos-auth.min.js
+/src/plugin/request/*
+/src/resource/core/*
+/src/resource/*
+/src/plugin/request/core/*
+/src/static/*
